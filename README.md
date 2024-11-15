@@ -14,7 +14,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages**: Java 8+, Python  
-- **Frameworks**: Spring Boot, Spring Cloud, Hibernate  
+- **Frameworks**: Spring Framework, Hibernate  
 - **DevOps Tools**: Jenkins, Docker, Kubernetes, GitLab  
 - **Databases**: MongoDB, PostgreSQL, MySQL, ElasticSearch, InfluxDB  
 - **Messaging Queues**: Apache Kafka, RabbitMQ  
@@ -32,8 +32,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Alfishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfishansalar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfishansalar&layout=compact&theme=radical)  
+![Alfishan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfishan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfishan&layout=compact&theme=radical)  
 
 ---
 
