@@ -1,6 +1,6 @@
 # Hi there 👋, I'm **Alfishan Salar**
 
-🎯 **SDE2 @ Maveric Systems | Backend Developer | Microservices Enthusiast**  
+🎯 **Software Developer @ IBM | Backend Developer | Microservices Enthusiast**  
 💻 **Expertise in Java, Spring Framework, RESTful APIs, and DevOps**  
 
 ---
